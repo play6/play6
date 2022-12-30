@@ -2,7 +2,7 @@
 - 👀 I’m interested in Netty
 - 🌱 I’m currently learning distributed systems
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...xiehan66@qq.com
+- 📫 How to reach me ...
 
 <!---
 play6/play6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
